@@ -1,3 +1,19 @@
+## ⚠️ Security Notice
+
+This repository contains a sample implementation of the project. Certain components, including cloud configuration files, credentials, and sensitive integration logic, have been intentionally excluded to protect security and prevent unauthorized access.
+
+In particular:
+- AWS credentials and access keys are not included  
+- Environment configuration files (.env) are omitted  
+- Some cloud deployment scripts and endpoints are removed  
+
+These elements are critical for secure cloud operations and cannot be shared publicly.
+
+If you would like to understand the complete implementation or discuss the architecture in detail, feel free to contact me.
+
+Thank you for your understanding.
+
+
 # FIC CLOUD - File Integrity Checker
 
 FIC CLOUD is a full-stack web application designed to protect and verify the integrity of your digital files using AWS Cloud infrastructure.
